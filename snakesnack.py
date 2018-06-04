@@ -1,4 +1,5 @@
 #importing pygame module,random function,sys
+#HELLO MONALISHA. I CAN WRITE ON THIS CODE NOW
 import random, pygame, sys
 from pygame.locals import*
 FPS=5
